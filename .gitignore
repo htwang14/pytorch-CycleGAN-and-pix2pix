@@ -3,6 +3,7 @@ debug*
 datasets/
 checkpoints/
 results/
+results_trainset/
 build/
 dist/
 *.png
